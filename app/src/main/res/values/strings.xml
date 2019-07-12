@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="about_header">About ALC</string>
+    <string name="profile_header">My Profile</string>
+    <string name="track_title">Track</string>
+    <string name="track_text">Android</string>
+    <string name="country_title">Country</string>
+    <string name="country_text">Kenya</string>
+    <string name="email_title">Email</string>
+    <string name="email_text">grishonnganga01@gmail.com</string>
+    <string name="phone_title">Phone Number</string>
+    <string name="phone_text">254729400426</string>
+    <string name="slack_title">Slack Username</string>
+    <string name="slack_text">@Grishon Ng\'ang\'a</string>
+    <string name="name_title">Grishon Gikima</string>
+    <string name="cont_desc">Image of Grishon</string>
+
+
+</resources>
